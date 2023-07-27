@@ -1,0 +1,14 @@
+{
+    "name": "Daily jokes",
+    "description": "Get a new joke everyday",
+    "version": "1.0",
+    "manifest_version": 3,
+    "action": {
+        "default_popup": "popup.html",
+        "default_icon": "logo1.png"
+    },
+    "icons": {
+        "128": "pngegg.png"
+    },
+    "permissions": ["activeTab"]
+}
